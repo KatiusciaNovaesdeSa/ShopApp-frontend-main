@@ -15,7 +15,9 @@ const httpOptions = {
 })
 
 export class HttpServiceService {
-  url = "http://localhost:8080/";
+  // url = "http://localhost:8080/";
+
+  url ="http://ec2-35-183-206-50.ca-central-1.compute.amazonaws.com:8080/";
 
   constructor(private http: HttpClient, private router: Router) { }
 
