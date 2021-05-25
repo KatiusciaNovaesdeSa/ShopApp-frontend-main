@@ -18,8 +18,8 @@ Technologies Used
 
 List of features ready and TODOs for future development:
 
-- All users register would receive a confirmation email to their email address.
-- All users must login to buy books and can log out after they finish ordering.
+- All users who register would receive a confirmation email to their email address.
+- Users must login to buy books and can log out after they finish ordering.
 - Users can choose books by book genres.
 - The add to cart feature helps buyers keep track of their order and see the book title and quantities.
 - Buyers can place orders directly and after placing the order, the cart is emptied.
@@ -31,9 +31,8 @@ To-do list:
 - Users can sell their own books with image uploading feature.
 - Passwords should be encrypted.
 
-Getting Started
 
-## Development server
+## Getting Started
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
